@@ -1,3 +1,21 @@
+**The Memory Game Application
+
+The Memory Game application uses React to render images of various characters and listen for click events. Users will click on an image and the application will increment the user's score for each new image they click. If the user clicks on an image more than once, however, the game is over and the user's score is set back to zero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+============================================================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
